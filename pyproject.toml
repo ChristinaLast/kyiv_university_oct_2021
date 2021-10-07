@@ -13,6 +13,9 @@ scipy = "^1.7.1"
 osmnx = "^1.1.1"
 geopandas = "^0.10.0"
 contextily = "^1.1.0"
+scikit-learn = "^1.0"
+descartes = "^1.1.0"
+Shapely = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
